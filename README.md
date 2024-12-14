@@ -135,16 +135,16 @@ poetry install  # Install dependencies
 - SNOWFLAKE_DATABASE=######
 - SNOWFLAKE_SCHEMA=######
 
-- ##### JWT Configuration
+##### JWT Configuration
 - SECRET_KEY=######
 
-- ##### API keys
+##### API keys
 - YOUTUBE_API_KEY=######
 - PINECONE_API_KEY=######
 - PINECONE_ENVIRONMENT=######
 - OPENAI_API_KEY=######
 
-- ##### PINECONE INDEX CONFIG
+##### PINECONE INDEX CONFIG
 - INDEX_NAME=text-index
 - YOUTUBE_INDEX=youtube-index
 - DIMENSION=1536
