@@ -124,8 +124,8 @@ poetry install  # Install dependencies
 ```
 
 #### NOTE: The user needs to create a .env file. The file should consist of below things -
--##### FastAPI URL
-- FASTAPI_URL=<enter your URL here>
+##### FastAPI URL
+- FASTAPI_URL="Enter localhost backend URL here"
 
 - ##### Snowflake Configuration
 - SNOWFLAKE_USER=######
