@@ -141,14 +141,14 @@ poetry install  # Install dependencies
 - PINECONE_ENVIRONMENT=######
 - OPENAI_API_KEY=######
 ##### PINECONE INDEX CONFIG
-- INDEX_NAME=text-index
-- YOUTUBE_INDEX=youtube-index
-- DIMENSION=1536
-- METRIC=cosine
-- CLOUD_PROVIDER=aws
-- REGION=us-east-1
-- IMG_INDEX_NAME=image-index
-- IMAGE_DIMENSIONS=512 
+- INDEX_NAME=######
+- YOUTUBE_INDEX=######
+- DIMENSION=######
+- METRIC=######
+- CLOUD_PROVIDER=######
+- REGION=######
+- IMG_INDEX_NAME=######
+- IMAGE_DIMENSIONS=######
 
 ### **3. Run the Components**
 
