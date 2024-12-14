@@ -126,7 +126,6 @@ poetry install  # Install dependencies
 #### NOTE: The user needs to create a .env file. The file should consist of below things -
 ##### FastAPI URL
 - FASTAPI_URL="Enter localhost backend URL here"
-
 - ##### Snowflake Configuration
 - SNOWFLAKE_USER=######
 - SNOWFLAKE_PASSWORD=######
@@ -134,16 +133,13 @@ poetry install  # Install dependencies
 - SNOWFLAKE_WAREHOUSE=######
 - SNOWFLAKE_DATABASE=######
 - SNOWFLAKE_SCHEMA=######
-
 ##### JWT Configuration
 - SECRET_KEY=######
-
 ##### API keys
 - YOUTUBE_API_KEY=######
 - PINECONE_API_KEY=######
 - PINECONE_ENVIRONMENT=######
 - OPENAI_API_KEY=######
-
 ##### PINECONE INDEX CONFIG
 - INDEX_NAME=text-index
 - YOUTUBE_INDEX=youtube-index
@@ -153,7 +149,6 @@ poetry install  # Install dependencies
 - REGION=us-east-1
 - IMG_INDEX_NAME=image-index
 - IMAGE_DIMENSIONS=512 
-
 
 ### **3. Run the Components**
 
