@@ -123,6 +123,38 @@ source venv_fastapi/bin/activate  # Activate the environment
 poetry install  # Install dependencies
 ```
 
+#### NOTE: The user needs to create a .env file. The file should consist of below things -
+##### FastAPI URL
+FASTAPI_URL=<enter your URL here>
+
+##### Snowflake Configuration
+SNOWFLAKE_USER=######
+SNOWFLAKE_PASSWORD=######
+SNOWFLAKE_ACCOUNT=######
+SNOWFLAKE_WAREHOUSE=######
+SNOWFLAKE_DATABASE=######
+SNOWFLAKE_SCHEMA=######
+
+##### JWT Configuration
+SECRET_KEY=######
+
+##### API keys
+YOUTUBE_API_KEY=######
+PINECONE_API_KEY=######
+PINECONE_ENVIRONMENT=######
+OPENAI_API_KEY=######
+
+##### PINECONE INDEX CONFIG
+INDEX_NAME=text-index
+YOUTUBE_INDEX=youtube-index
+DIMENSION=1536
+METRIC=cosine
+CLOUD_PROVIDER=aws
+REGION=us-east-1
+IMG_INDEX_NAME=image-index
+IMAGE_DIMENSIONS=512 
+
+
 ### **3. Run the Components**
 
 #### **Airflow**:
