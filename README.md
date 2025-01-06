@@ -178,7 +178,6 @@ streamlit run app.py
 
 You can access the related files to this project here:  
 
-- Video Link: [Project Demo](https://drive.google.com/drive/folders/1sBLrejhuyzoQXzyt3lf0hlBzZ16HBY_4?usp=drive_link)
 - Documentation: ![Documentation](./AIVY_Learning_Assistant.pdf)
 
 
