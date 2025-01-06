@@ -176,9 +176,8 @@ streamlit run app.py
 
 ---
 
-You can access the related files to this project here:  
-
-- Documentation: [AIVY_Learning_Assistant](https://docs.google.com/document/d/16YTWezwAKDvSskYUtFhl-9ji1dHaG7tI-kwvVEzcx6o/edit?usp=sharing)
+## Documentation
+[Google docs- Documentation](https://docs.google.com/document/d/16YTWezwAKDvSskYUtFhl-9ji1dHaG7tI-kwvVEzcx6o/edit?usp=sharing)
 
 
 ## **Conclusion**
