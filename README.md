@@ -177,7 +177,7 @@ streamlit run app.py
 ---
 
 ## Documentation
-[Google docs - Documentation](https://docs.google.com/document/d/16YTWezwAKDvSskYUtFhl-9ji1dHaG7tI-kwvVEzcx6o/edit?usp=sharing)
+[Google Docs - Documentation](https://docs.google.com/document/d/16YTWezwAKDvSskYUtFhl-9ji1dHaG7tI-kwvVEzcx6o/edit?usp=sharing)
 
 
 ## **Conclusion**
